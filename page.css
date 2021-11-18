@@ -1,0 +1,21 @@
+* {
+    font-family: 'Helvetica Neue';
+}
+body {
+    padding: 1em;
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    grid-gap: 1rem;
+    background: #000000;
+}
+.item {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: 200;
+    background: #CA3216;
+}
