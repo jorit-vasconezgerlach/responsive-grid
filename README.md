@@ -3,7 +3,7 @@
 ## General Information
 **Preview** [open](http://jorit.vasconezgerlach.de/host/github/responsive-grid/)\
 **Licence** Free to copy, edit and share\
-**Languages** JS, HTML, CSS
+**Languages** CSS, HTML
 
 ## About Creator
 Jorit Vásconez Gerlach\
